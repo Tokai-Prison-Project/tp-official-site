@@ -1,0 +1,3 @@
+# VS Code/WebStormなどのファイルはガン無視
+.vscode/
+.idea/
