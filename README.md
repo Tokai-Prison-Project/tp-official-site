@@ -1,1 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9e5e0d8f-af5b-423d-86f1-e98619fcbc6b/deploy-status)](https://app.netlify.com/sites/tokai-prison/deploys)
+# Tokai Prison Official Website
+
+[![pages-build-deployment](https://github.com/Tokai-Prison-Project/tp-official-site/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Tokai-Prison-Project/tp-official-site/actions/workflows/pages/pages-build-deployment)
